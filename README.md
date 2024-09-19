@@ -1,2 +1,2 @@
 # PRODIGY_WD_02
-This webpage contains Tic-Tac-Toe using HTML, CSS, Javascript
+This webpage contains stop watch with start,stop,pause,lap button using HTML, CSS, Javascript
